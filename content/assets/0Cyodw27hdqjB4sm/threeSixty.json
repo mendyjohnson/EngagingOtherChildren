@@ -1,0 +1,39 @@
+{
+  "version": "3.50.24668.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6hmHwoYeb1m",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6WiQSpjEtCx",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6pm35uTFchq",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6phlN0M1Kov",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
